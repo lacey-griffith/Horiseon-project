@@ -4,7 +4,7 @@
 
 The Company, Horiseon, previous to the project had a full functioning website but wanted to implement additional features to increase accessibility allowing the site to be optimal for search engine optimization.
 
-![Site Image](/assets/images/full-size-Horiseon.png)
+![Site Image](assets/images/full-size-Horiseon.png)
 
 **Technologies**
 
